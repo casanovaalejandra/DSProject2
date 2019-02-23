@@ -1,0 +1,5 @@
+4 log1.txt
+2 log1.txt
+1 log1.txt
+0 log1.txt
+10 log2.txt
